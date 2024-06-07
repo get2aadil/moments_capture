@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467849922839",
+    "project_id": "moments-capture-eadb3",
+    "storage_bucket": "moments-capture-eadb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467849922839:android:ba91f654c5e0245f5a0f52",
+        "android_client_info": {
+          "package_name": "com.example.moments_capture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVejYX86uWU943GdSWX1ld6973Off5wgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
